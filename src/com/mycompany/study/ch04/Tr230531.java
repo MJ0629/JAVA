@@ -61,8 +61,6 @@ public class Tr230531 {
 
 		int point=10;
 		
-		int salescost = 0;
-		
 		if(point >= 30000000) {
 			//플래티넘
 			grade="플래티넘 등급";
