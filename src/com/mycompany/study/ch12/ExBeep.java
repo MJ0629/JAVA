@@ -10,6 +10,7 @@ public class ExBeep {
 		for(int i=0; i<5; i++) {		
 			toolkit.beep();
 //			Thread.sleep(500);
+//			소리내는 역할
 		}	}
 
 }
